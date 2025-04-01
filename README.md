@@ -40,4 +40,5 @@ Feel free to check out my work, or connect with me if you’d like to discuss ne
 
 - [RILT Starter Template](https://github.com/IsaacHatilima/rilt-mantine-starter)
 - [RILT Multi Tenancy Starter Template](https://github.com/IsaacHatilima/multi-tenancy)
+- [RILT Multi SaaS Starter Template](https://github.com/IsaacHatilima/peer-banking)
 
