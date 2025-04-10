@@ -13,7 +13,7 @@ In 2024, I transitioned into a **Full-Stack Developer** role, expanding my skill
 ## Technologies & Tools
 
 ### Back-End:
-- **PHP** (Laravel, Laravel Fortify, Livewire)
+- **PHP** (Laravel, Livewire) (Current working stack)
 - **Python** (Django, Flask)
 - **MySQL**, **PostgreSQL**
 
@@ -22,11 +22,12 @@ In 2024, I transitioned into a **Full-Stack Developer** role, expanding my skill
 - **Tailwind CSS**
 - **Inertia.js**
 - **Alpine.js**
+- **JavaScript**, **HTML**, **CSS**
 
 ### Other Tools & Libraries:
 - **Git**, **Docker**,
-- **REST APIs**,
-- **JavaScript**, **HTML**, **CSS**
+- **PHPStorm**,
+
 
 ## My Approach
 
