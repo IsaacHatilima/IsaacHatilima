@@ -7,26 +7,41 @@ I am a passionate and results-driven **Software Engineer** with a diverse backgr
 ### Backend Engineer (2019 - 2023)
 Over the course of my career as a backend engineer, specifically with **Python Django** and **PHP**, along with front-end technologies. During this period, I worked on several projects that involved creating efficient APIs, working with databases, and designing data models.
 
-### Full-Stack Developer (2024 - Present)
+### Full-Stack Developer (2023 - Present)
 In 2024, I transitioned into a **Full-Stack Developer** role, expanding my skillset to include both **front-end** and **back-end** technologies. I have been working extensively with the **PHP Laravel ecosystem**, including **Laravel**, **Blade**, **Eloquent ORM**, and other tools in the ecosystem to build modern, performant web applications.
 
 ## Technologies & Tools
 
 ### Back-End:
-- **PHP** (Laravel, Livewire) (Current working stack)
+- **PHP** (Laravel) (Current working stack)
 - **Python** (Django, Flask)
-- **MySQL**, **PostgreSQL**
+
+### Databases
+- **MySQL**,
+- **PostgreSQL**
+- **Redis**
 
 ### Front-End:
 - **React.js**
+- **Livewire**
 - **Tailwind CSS**
 - **Inertia.js**
 - **Alpine.js**
-- **JavaScript**, **HTML**, **CSS**
+- **JavaScript**,
+- **HTML**,
+- **CSS**
 
 ### Other Tools & Libraries:
-- **Git**, **Docker**,
+- **Git**,
+- **Docker**,
 - **PHPStorm**,
+
+### DevOps/Infrastructure
+- **Proxmox**
+- **Ansible**
+- **Terraform**
+- **Docker Swarm**
+- **Kubernetes** (Currently learning)
 
 
 ## My Approach
@@ -35,11 +50,8 @@ I believe in writing clean, readable, and maintainable code. My experience acros
 
 ---
 
-Feel free to check out my work, or connect with me if you’d like to discuss new projects or opportunities.
-
 ### Projects
 
-- [RILT Starter Template](https://github.com/IsaacHatilima/rilt-mantine-starter)
-- [RILT Multi Tenancy Starter Template](https://github.com/IsaacHatilima/multi-tenancy)
-- [RILT Multi SaaS Starter Template](https://github.com/IsaacHatilima/peer-banking)
+- [RILT Starter Template](https://github.com/IsaacHatilima/laravel-starter-template)
+- [DevOps/Infrastructure Journey](https://github.com/IsaacHatilima/infra-devops)
 
