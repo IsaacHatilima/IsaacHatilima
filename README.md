@@ -6,7 +6,6 @@
 
 Building reliable web, mobile and cloud systems from architecture to production.
 
-[![CityDirectory](https://img.shields.io/badge/CityDirectory-Live_Product-1f6feb?style=for-the-badge&logo=safari&logoColor=white)](https://citydirectory.app)
 [![GitHub](https://img.shields.io/badge/GitHub-IsaacHatilima-181717?style=for-the-badge&logo=github)](https://github.com/IsaacHatilima)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaachatilima@gmail.com)
 
@@ -37,27 +36,6 @@ I enjoy solving complex business problems, designing maintainable systems and ta
 - Integrate payment, authentication and AI services
 - Diagnose production issues and improve reliability
 - Review, refactor and document software for long-term maintainability
-
----
-
-## Current Work
-
-### [CityDirectory](https://citydirectory.app)
-
-I am the founder and sole engineer behind CityDirectory, a live local-business discovery platform available on the web, iOS and Android.
-
-The platform currently includes:
-
-- More than **700,000 business listings**
-- Coverage across **13,000+ German cities**
-- Content in **15 languages**
-- Web and React Native mobile applications
-- Advertising, digital menus and appointment-booking features
-- Accommodation, municipal-alert and local-discovery verticals
-- Subscription billing and payment integrations
-- Real-time services, analytics and automated data processing
-
-I designed, built, deployed and operate the platform end to end, including its architecture, backend, frontend, mobile applications, databases, infrastructure and production operations.
 
 ---
 
